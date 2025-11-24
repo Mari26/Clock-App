@@ -1,6 +1,6 @@
 
 import './App.css'
-import ClockApp from './Clockapp'
+import ClockApp from './ClockApp'
 
 
 
